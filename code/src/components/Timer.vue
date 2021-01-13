@@ -1,6 +1,6 @@
 <template>
     <div class="Timer">
-        <!--  START BUTTON    -->
+        <!--  START BUTTON     -->
 <button 
   id="start" 
   class="button is-dark is-large"
